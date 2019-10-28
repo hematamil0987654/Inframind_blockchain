@@ -35,8 +35,7 @@ def main():
 
     naivecoin.show(verify=True)
 
-
-
+# main starts
 if __name__ == '__main__':
     main()
-    
+# end
